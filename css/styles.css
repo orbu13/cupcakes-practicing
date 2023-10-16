@@ -6,41 +6,35 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    background-color: #c6bcbe; /* Light Pink */
-    border: 4px solid #544e51; /* Deep Pink */
+    background-color: #cfe7b4; 
+    border: 4px solid #9fd6a8; 
     border-radius: 10px;
     padding: 20px;
   }
   
-  /* Style the h1 element with a different pink text color */
   h1 {
-    color: #ff1493; /* Deep Pink */
+    color: #569a64; 
   }
   
-  /* Style the div element with a different shade of pink */
-  div {
-    color: #ff69b4; /* Hot Pink */
+  .flashy {
+    color: #8fcc7c; 
   }
   
-  /* Style the p elements with a lighter pink text color */
   p {
-    color: #ffc0cb; /* Pink */
+    color: #73b379; 
   }
   
-  /* Style links with a pink color */
   a {
-    color: #ff6b81; /* Light Coral */
+    color: #4a8a54; 
     text-decoration: none;
   }
   
-  /* Change the hover color of links to a different pink shade */
   a:hover {
-    color: #ff91a4; /* Salmon Pink */
+    color: #6ca869;
   }
   
-
-  .flashy{
-font-weight: bold;
-font-style: italic;
-}
+  ul {
+    color: #569a64; 
+  }
+  
   
