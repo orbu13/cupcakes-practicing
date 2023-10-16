@@ -52,7 +52,11 @@ body {
     text-decoration:overline;
 
   }
+
   img{
     width: 500px;
   }
-  
+
+  .underline{
+text-decoration: underline;
+  }
